@@ -1,0 +1,19 @@
+.header {
+    background: url("images/img2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    padding: 20px 0 10px 20px;
+    margin-top: 20px;
+}
+
+.logo {
+    width: 490px;
+}
+
+.text-header {
+    text-align: center;
+    padding-top: 70px;
+}
